@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Gestor de Tareas",
+    "slug": "gestor-de-tareas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.santiago.gestordetareas",
+      "versionCode": 1
+    }
+  }
+}
